@@ -1,6 +1,9 @@
 {
-  "name": "RedirectAdult",
-  "do": 3,
-  "via": "AMS",
-  "status": 1
-}
+  "group": {
+    "group": "RedirectAdult",
+    "action": {
+      "do": 3,
+      "via": "AMS",
+      "status": 1
+    }
+  },
