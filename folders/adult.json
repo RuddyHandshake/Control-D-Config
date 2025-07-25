@@ -1,11 +1,7 @@
 {
-  "body": {
-    "groups": [
-      {
-        "PK": 26,
-        "group": "RedirectAdult",
-        "action": {
-          "do": 3,
+  "group": "RedirectAdult",
+      "action": {
+        "do": 3,
           "via": "AMS",
           "status": 1
         },
