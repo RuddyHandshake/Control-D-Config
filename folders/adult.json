@@ -7,3 +7,11 @@
       "status": 1
     }
   },
+  "rules": [
+    {
+      "PK": "thisisatest.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
