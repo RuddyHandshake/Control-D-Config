@@ -1,23 +1,20 @@
 {
-  "group": {
-    "group": "Adult",
-    "action": {
-      "do": 1,
-      "status": 1
-    }
-  },
+  "body": {
+    "groups": [
+      {
+        "PK": 26,
+        "group": "RedirectAdult",
+        "action": {
+          "do": 3,
+          "via": "AMS",
+          "status": 1
+        },
   "rules": [
     {
       "PK": "*.eporner.com",
       "action": {
-        "do": 1,
-        "status": 1
+         "do": 3,
+          "via": "AMS",
+          "status": 1
       }
     },
-    {
-      "PK": "*.pornhub.com",
-      "action": {
-        "do": 1,
-        "status": 1
-  ]
-}
