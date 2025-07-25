@@ -1,18 +1,6 @@
 {
-  "group": {
-    "group": "RedirectAdult",
-    "action": {
-      "do": 3,
-      "via": "AMS",
-      "status": 1
-    }
-  },
-  "rules": [
-    {
-      "PK": "eporner.com",
-      "action": {
-         "do": 3,
-          "via": "AMS",
-          "status": 1
-      }
-    },
+  "name": "RedirectAdult",
+  "do": 3,
+  "via": "AMS",
+  "status": 1
+}
