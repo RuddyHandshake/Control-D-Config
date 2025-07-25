@@ -13,7 +13,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Russian IP address."
     },
     {
       "PK": "@CN",
@@ -21,7 +20,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Chinese IP address."
     },
     {
       "PK": "@IN",
@@ -29,7 +27,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to an Indian IP address."
     },
     {
       "PK": "@NG",
@@ -37,7 +34,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Nigerian IP address."
     },
     {
       "PK": "@VN",
@@ -45,7 +41,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Vietnamize IP address."
     },
     {
       "PK": "@IR",
@@ -53,7 +48,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Iranian IP address."
     },
     {
       "PK": "@BR",
@@ -61,7 +55,6 @@
         "do": 0,
         "status": 0
       },
-      "comment": "Block domains that resolve to a Brazilian IP address."
     },
     {
       "PK": "@AE",
@@ -69,7 +62,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a United Arab Emirates IP address."
     },
     {
       "PK": "@AF",
@@ -77,7 +69,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Afghani IP address."
     },
     {
       "PK": "@MX",
@@ -85,7 +76,6 @@
         "do": 0,
         "status": 0
       },
-      "comment": "Block domains that resolve to a Mexican IP address."
     },
     {
       "PK": "@MA",
@@ -93,7 +83,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Moroccan IP address."
     },
     {
       "PK": "@ID",
@@ -101,7 +90,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Indonesian IP address."
     },
     {
       "PK": "@SA",
@@ -109,7 +97,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Saudi IP address."
     },
     {
       "PK": "@CO",
@@ -117,7 +104,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Colombian IP address."
     },
     {
       "PK": "@ET",
@@ -125,7 +111,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Ethiopian IP address."
     },
     {
       "PK": "@GT",
@@ -133,7 +118,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Guatemalan IP address."
     },
     {
       "PK": "@HN",
@@ -141,7 +125,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Honduran IP address."
     },
     {
       "PK": "@PE",
@@ -149,7 +132,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Peruvian IP address."
     },
     {
       "PK": "@TH",
@@ -157,7 +139,6 @@
         "do": 0,
         "status": 0
       },
-      "comment": "Block domains that resolve to a Thai IP address."
     },
     {
       "PK": "@KP",
@@ -165,7 +146,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a North Korean IP address."
     },
     {
       "PK": "@UA",
@@ -173,7 +153,6 @@
         "do": 0,
         "status": 0
       },
-      "comment": "Block domains that resolve to a Ukrainian IP address."
     },
     {
       "PK": "@PK",
@@ -181,7 +160,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Pakistani IP address."
     },
     {
       "PK": "@TR",
@@ -189,7 +167,6 @@
         "do": 0,
         "status": 0
       },
-      "comment": "Block domains that resolve to a Turkish IP address."
     },
     {
       "PK": "@YE",
@@ -197,7 +174,6 @@
         "do": 0,
         "status": 1
       },
-      "comment": "Block domains that resolve to a Yemen IP address."
     }
   ]
 }
