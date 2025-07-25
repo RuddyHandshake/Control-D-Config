@@ -1,0 +1,25 @@
+{
+  "group": {
+    "group": "Adult",
+    "action": {
+      "do": 1,
+      "status": 1
+    }
+  },
+  "rules": [
+    {
+      "PK": "*.eporner.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pornhub.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+  ]
+}
