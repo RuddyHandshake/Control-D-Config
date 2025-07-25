@@ -2,6 +2,7 @@
   "group": {
     "group": "Potentially Malicious IPs",
     "action": {
+      "do": 0,
       "status": 1
     }
   },
